@@ -1,6 +1,6 @@
 # Deepseek Busy
 
-[English Version](https://github.com/youyi0218/deepseek-busy/readme-en.md)
+[English Version](https://github.com/youyi0218/deepseek-busy/blob/main/readme-en.md)
 
 ## 项目简介
 
